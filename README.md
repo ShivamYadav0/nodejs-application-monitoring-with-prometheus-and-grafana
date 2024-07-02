@@ -33,6 +33,8 @@ docker-compose up -d
 - Grafana should be accessible via [http://localhost:3000](http://localhost:3000)
 - Example Node.js server metrics for RED monitoring should be accessible via [http://localhost:8080/metrics](http://localhost:8080/metrics)
 
+- https://dev.to/austincunningham/use-grafana-to-plot-express-js-apps-metrics-364n
+
 ## Open monitoring dashboards
 Open in your web browser the monitoring dashboards:
 - Monitoring dashboard for the Node.js app can be found on[http://localhost:3000/d/1DYaynomMk/example-service-dashboard](http://localhost:3000/d/1DYaynomMk/example-service-dashboard)
